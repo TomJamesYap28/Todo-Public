@@ -18,7 +18,7 @@ In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I us
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![Data Tables](https://img.shields.io/badge/Data%20Tables-336791?style=for-the-badge&logo=datatables&logoColor=white)
 - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-- ![FullCalendar](https://img.shields.io/badge/FullCalendar-2577C7?style=for-the-badge&logo=fullcalendar&logoColor=white)
+- ![FullCalendar JS](https://img.shields.io/badge/FullCalendar%20JS-2577C7?style=for-the-badge&logo=fullcalendar&logoColor=white)
 - ![Chart.js](https://img.shields.io/badge/Chart.js-FE777B?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 # Getting Started
