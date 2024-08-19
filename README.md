@@ -41,9 +41,9 @@ We look forward to assisting you with any questions or providing further informa
 # Acknowledgements
 I would like to extend my sincere thanks to the following individuals for their valuable contributions and support throughout the development of this project:
 
-- Remi Vallejo
-- Ma. Hannah Budiongan
-- Christian Garcia
+- [Remi Vallejo](https://github.com/remrem-2022)
+- [Ma. Hannah Budiongan](https://github.com/itsmhlb)
+- [Christian Garcia](https://github.com/lnweb4)
 
 Your expertise and guidance were instrumental in bringing this project to fruition, and I greatly appreciate your time and effort.
 
