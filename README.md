@@ -1,8 +1,10 @@
 # About this Project
 
 <div align="center">
-    ## Sample Picture
+    
 </div>
+
+The project involves the development of a streamlined employee dashboard, designed to enhance task management and productivity. The system features distinct access levels, with an admin page for creating employee profiles and assigning specific to-do lists, and an employee page for logging tasks and updating their status. The dashboard is further enhanced with integrated tools such as a calendar, graphical data representations, and a Daily Time Record (DTR) system, ensuring a comprehensive solution for task and time management.
 
 
 ## Built With
@@ -21,15 +23,15 @@ In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I us
 - ![FullCalendar JS](https://img.shields.io/badge/FullCalendar%20JS-2577C7?style=for-the-badge&logo=fullcalendar&logoColor=white)
 - ![Chart.js](https://img.shields.io/badge/Chart.js-FE777B?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-# Getting Started
-## Prerequisites
-## Installation
-
 # Usage
+To provide sample demos please reachout in my email (tjyap28@gmail.com)
 
 # Roadmap
-
-# License
+- [x] Added Full Calendar
+- [x] Added Graphs to display Employee Status
+- [x] Added Time in Time out for Employees
+- [ ] Add more functions to Admin Page
+- [ ] Edit limitations on Employee Page
 
 # Contact
 For any inquiries or to obtain the source code for this project, please feel free to reach out via email:
